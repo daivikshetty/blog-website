@@ -15,10 +15,13 @@
     color: #1abc9c !important;
 }
 
+.navbar-brand{
+    font-size: 220%;
+}
+
 .btn{
     margin-top: 5px;
 }
-
 
 .footer-padding {
 	padding-bottom: 60px;
